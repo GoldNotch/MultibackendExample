@@ -3,7 +3,7 @@
 #include <SFML/window.h>
 #define GLEW_STATIC
 #include <GL/glew.h>
-#include "Game.h"
+#include "Game/Game.h"
 
 // Shaders
 const char* vertexShaderSource = "#version 330 core\n"
